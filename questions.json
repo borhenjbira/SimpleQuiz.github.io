@@ -1,0 +1,48 @@
+[
+    {
+      "question": "Quelle equipe a remporte la Coupe du Monde de la FIFA en 2018 ?",
+      "answers": [
+        { "text": "Bresil", "correct": false },
+        { "text": "France", "correct": true },
+        { "text": "Allemagne", "correct": false },
+        { "text": "Espagne", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle est la principale langue parlee en Tunisie ?",
+      "answers": [
+        { "text": "Arabe", "correct": true },
+        { "text": "Francais", "correct": false },
+        { "text": "Anglais", "correct": false },
+        { "text": "Italien", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle est la capitale de l'Espagne ?",
+      "answers": [
+        { "text": "Milan", "correct": false },
+        { "text": "Paris", "correct": false },
+        { "text": "Madrid", "correct": true },
+        { "text": "Rome", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle est la capitale de l'Italie ?",
+      "answers": [
+        { "text": "Milan", "correct": false },
+        { "text": "Naples", "correct": false },
+        { "text": "Rome", "correct": true },
+        { "text": "Torino", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel est le sport le plus populaire au monde en termes de nombre de spectateurs ?",
+      "answers": [
+        { "text": "Basketball", "correct": false },
+        { "text": "Football", "correct": true },
+        { "text": "Handball", "correct": false },
+        { "text": "Voleyball", "correct": false }
+      ]
+    }
+  ]
+  
